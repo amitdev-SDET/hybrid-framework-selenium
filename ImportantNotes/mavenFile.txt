@@ -1,0 +1,7 @@
+Download maven  from https://maven.apache.org/download.cgi
+open project in cmd
+run command mvn test
+
+Download jenkins :https://www.jenkins.io/download/
+jenkins.war file to be download
+After download run the file in cmd with command "java -jar jenkins.war"
